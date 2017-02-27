@@ -1,1 +1,1 @@
-# osgi.enroute.docker.centos7-systemd
+# centos7-systemd
